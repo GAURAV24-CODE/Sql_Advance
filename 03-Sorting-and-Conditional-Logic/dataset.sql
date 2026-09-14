@@ -84,7 +84,3 @@ VALUES
 SELECT COUNT(*) AS total_orders
 FROM sales_orders;
 
-
--- View complete dataset
-SELECT *
-FROM sales_orders;
