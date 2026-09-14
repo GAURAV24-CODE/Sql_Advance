@@ -1,3 +1,4 @@
+
 -- DAY 2 — FILTERING DATA
 -- File: 07-NULL-Filtering.sql
 -- Topic: NULL Filtering
