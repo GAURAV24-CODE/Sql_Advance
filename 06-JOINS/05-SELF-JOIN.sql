@@ -96,7 +96,7 @@ GROUP BY m.employee_name
 ORDER BY employee_count DESC;
 
 
--- Q5: Find pairs of employees working in the same department
+ Find pairs of employees working in the same department
 SELECT
     e1.employee_name AS employee_1,
     e2.employee_name AS employee_2,

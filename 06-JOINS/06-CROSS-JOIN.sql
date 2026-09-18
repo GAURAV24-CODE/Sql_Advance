@@ -88,8 +88,7 @@ CROSS JOIN products AS p
 WHERE p.price > 30000
 ORDER BY p.price DESC;
 
-
--- Q5: Generate every customer-product combination
+ Generate every customer-product combination
 -- and calculate a 10% discount price
 SELECT
     c.customer_name,

@@ -1,6 +1,6 @@
 -- LEFT JOIN
 
--- Example 1: Match customers with their orders
+: Match customers with their orders
 SELECT
     c.customer_name,
     o.order_id,

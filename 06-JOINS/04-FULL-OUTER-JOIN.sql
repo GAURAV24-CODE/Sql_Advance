@@ -103,7 +103,7 @@ GROUP BY c.customer_name
 HAVING SUM(o.total_amount) > 50000;
 
 
--- Q5: Find unmatched customers or orders
+ Find unmatched customers or orders
 SELECT
     c.customer_name,
     o.order_id

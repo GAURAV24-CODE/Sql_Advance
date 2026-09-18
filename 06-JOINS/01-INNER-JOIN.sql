@@ -127,7 +127,7 @@ INNER JOIN products AS p
 WHERE p.category = 'Electronics';
 
 -- Q5: Find completed Electronics orders above 50000
--- Solution
+
 SELECT
     c.customer_name,
     o.order_id,

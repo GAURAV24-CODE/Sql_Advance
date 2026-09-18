@@ -106,7 +106,7 @@ GROUP BY c.customer_name
 HAVING SUM(o.total_amount) > 50000;
 
 
--- Q5: Products with total quantity ordered above 3
+: Products with total quantity ordered above 3
 SELECT
     p.product_name,
     SUM(o.quantity) AS total_quantity
