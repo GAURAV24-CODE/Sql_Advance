@@ -1,0 +1,94 @@
+DAY 6 — SQL JOINS
+INTERVIEW QUESTIONS & ANSWERS
+
+1. What is a JOIN?
+Answer: A JOIN combines rows from two or more tables using a related column.
+
+2. What is INNER JOIN?
+Answer: INNER JOIN returns only rows that have matching values in both tables.
+
+3. What is LEFT JOIN?
+Answer: LEFT JOIN returns all rows from the left table and matching rows from the right table.
+
+4. What is RIGHT JOIN?
+Answer: RIGHT JOIN returns all rows from the right table and matching rows from the left table.
+
+5. What is FULL OUTER JOIN?
+Answer: FULL OUTER JOIN returns all rows from both tables, including unmatched rows.
+
+6. What is SELF JOIN?
+Answer: SELF JOIN joins a table with itself using different aliases.
+
+7. What is CROSS JOIN?
+Answer: CROSS JOIN returns every possible combination of rows from two tables.
+
+8. What is the difference between INNER JOIN and LEFT JOIN?
+Answer: INNER JOIN keeps only matches, while LEFT JOIN keeps every row from the left table.
+
+9. What happens when there is no matching row in a LEFT JOIN?
+Answer: Columns from the right table contain NULL.
+
+10. What happens when there is no matching row in a FULL OUTER JOIN?
+Answer: Columns from the table without a match contain NULL.
+
+11. Can a table be joined with itself?
+Answer: Yes. This is called a SELF JOIN.
+
+12. Does CROSS JOIN require an ON condition?
+Answer: No. CROSS JOIN does not require an ON condition.
+
+13. What is a Cartesian product?
+Answer: It is the result of combining every row of one table with every row of another table.
+
+14. Can JOINs be used with GROUP BY?
+Answer: Yes. JOINs can combine data first, then GROUP BY can aggregate the result.
+
+15. Can JOINs be used with HAVING?
+Answer: Yes. HAVING can filter aggregated groups after a JOIN and GROUP BY.
+
+16. What is a multiple JOIN?
+Answer: A multiple JOIN combines three or more tables in one query.
+
+17. What is the ON clause used for?
+Answer: ON defines the relationship or matching condition between joined tables.
+
+18. Can JOIN conditions use multiple columns?
+Answer: Yes. Multiple columns can be used in an ON condition.
+
+19. Which JOIN is commonly used to find records existing in both tables?
+Answer: INNER JOIN.
+
+20. Which JOIN is useful for finding records missing from the related table?
+Answer: LEFT JOIN or FULL OUTER JOIN, depending on which unmatched records are required.
+
+21. How can you find customers without orders?
+Answer: Use LEFT JOIN and filter where the order ID is NULL.
+
+22. What is the difference between WHERE and ON in a JOIN?
+Answer: ON defines how rows are matched; WHERE filters the resulting rows.
+
+23. Can INNER JOIN and JOIN mean the same thing?
+Answer: Yes. In PostgreSQL, JOIN without a qualifier normally means INNER JOIN.
+
+24. Can RIGHT JOIN be rewritten as LEFT JOIN?
+Answer: Yes. Reverse the table order and use LEFT JOIN.
+
+25. Why should CROSS JOIN be used carefully?
+Answer: It can produce a very large number of rows because it creates every possible combination.
+
+
+QUICK INTERVIEW REVISION
+
+INNER JOIN  → Matching rows
+LEFT JOIN   → All LEFT + matching RIGHT
+RIGHT JOIN  → All RIGHT + matching LEFT
+FULL JOIN   → All rows from BOTH
+SELF JOIN   → Same table with itself
+CROSS JOIN  → Every combination
+
+Important:
+JOIN → Combine tables
+ON   → Match tables
+WHERE → Filter rows
+GROUP BY → Create groups
+HAVING → Filter groups
