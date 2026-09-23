@@ -1,3 +1,4 @@
+
 -- Day 7: Scalar Subquery
 -- Dataset: employees
 -- Scalar subquery returns exactly one value.
