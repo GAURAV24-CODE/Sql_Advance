@@ -1,6 +1,6 @@
 # Day 11: Common Table Expressions (CTEs)
 
-## 📌 Overview
+## 📌 Overvie
 A Common Table Expression (CTE) is a temporary named result set
 that makes complex SQL queries easier to read and maintain.
 
