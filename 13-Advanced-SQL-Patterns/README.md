@@ -1,5 +1,5 @@
 
-## 3. `13-Advanced-SQL-Patterns/README.md`
+## 3. `13-Advanced-SQL-PatternsREADME.md`
 
 ```markdown
 # Day 13: Advanced SQL Patterns
