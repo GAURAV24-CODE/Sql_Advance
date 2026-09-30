@@ -9,7 +9,6 @@ SELECT
     customer_name,
     LOWER(customer_name) AS lower_name
 FROM customers;
-
 SELECT
     email,
     UPPER(email) AS standardized_email

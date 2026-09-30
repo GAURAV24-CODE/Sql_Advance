@@ -1,3 +1,4 @@
+
 -- Day 8: UNION
 -- 01-UNION.sql
 -- PostgreSQL
