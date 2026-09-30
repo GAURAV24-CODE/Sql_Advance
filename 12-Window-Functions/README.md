@@ -2,7 +2,7 @@
 ## 2. `12-Window-Functions/README.md`
 
 ```markdown
-# Day 12: SQL Window Functions
+# Day 12: SQL Windo Functions
 
 ## 📌 Overview
 Window functions perform calculations across a set of related rows
