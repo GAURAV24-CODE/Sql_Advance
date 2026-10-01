@@ -1,0 +1,81 @@
+CTE INTERVIEW QUESTIONS AND ANSWERS
+==================================
+
+1. What is a CTE in SQL?
+A CTE (Common Table Expression) is a temporary named result set defined using the WITH clause.
+
+2. What is the syntax of a CTE?
+A CTE uses WITH cte_name AS (SELECT ...) followed by the main SQL query.
+
+3. Why do we use CTEs?
+CTEs improve query readability, simplify complex queries, and make SQL easier to maintain.
+
+4. What is the WITH clause?
+The WITH clause defines one or more CTEs that can be used in the main query.
+
+5. Are CTEs permanent tables?
+No, CTEs exist only for the duration of the SQL statement in which they are defined.
+
+6. Can we use multiple CTEs in one query?
+Yes, multiple CTEs can be defined using a single WITH clause and separated by commas.
+
+7. Can a CTE be used with a JOIN?
+Yes, a CTE can be joined with tables or other CTEs using JOIN conditions.
+
+8. Can we use aggregate functions inside a CTE?
+Yes, functions such as SUM(), AVG(), COUNT(), MIN(), and MAX() can be used inside a CTE.
+
+9. Can we filter data inside a CTE?
+Yes, we can use WHERE and HAVING clauses inside a CTE.
+
+10. Can we use a CTE inside another CTE?
+Yes, a later CTE can reference an earlier CTE defined in the same WITH clause.
+
+11. What is a recursive CTE?
+A recursive CTE references itself to process hierarchical or sequential data.
+
+12. What are the two parts of a recursive CTE?
+A recursive CTE contains an anchor query and a recursive query, usually connected by UNION ALL.
+
+13. What is the anchor query in a recursive CTE?
+The anchor query provides the initial result from which recursion begins.
+
+14. What is the recursive query?
+The recursive query references the CTE itself to generate additional rows.
+
+15. What is the difference between a CTE and a subquery?
+A CTE is defined using WITH and can improve readability, while a subquery is written inside another SQL statement.
+
+16. Can we use ORDER BY inside a CTE?
+Yes, but it does not guarantee the final output order; use ORDER BY in the outer query.
+
+17. Can a CTE return multiple columns?
+Yes, a CTE can return multiple columns, just like a regular SELECT que
+
+18. Can we use INSERT, UPDATE, or DELETE with a CTE in PostgreSQL?
+Yes, PostgreSQL supports data-modifying statements inside a WITH claus
+
+19. What is the difference between a CTE and a temporary table?
+A CTE exists for one statement, while a temporary table can be reused across multiple statements within its session.
+
+20. Does a CTE always improve query performance?
+No, a CTE mainly improves readability; its performance depends on the query and the database optimizer.
+
+21. What is the difference between UNION and UNION ALL in a recursive CTE?
+UNION removes duplicate rows, while UNION ALL retains them and is commonly used in recursive queries.
+
+22. Can a recursive CTE run indefinitely?
+Yes, if its termination condition is incorrect or missing, recursion may continue until a system limit or error occurs.
+
+23. Can we use a CTE with GROUP BY?
+Yes, a CTE can group rows and calculate aggregates before the main query uses the results.
+
+24. Can we reference a CTE multiple times in the same query?
+Yes, a CTE can be referenced multiple times within the SQL statement where it is defined.
+
+25. What is the main advantage of a CTE over a complex nested query?
+A CTE breaks a complex query into named, understandable steps, making it easier to read and debug.
+
+==================================
+END OF INTERVIEW QUESTIONS
+==================================
