@@ -1,0 +1,95 @@
+SQL WINDOW FUNCTIONS — INTERVIEW QUESTIONS & ANSWERS
+
+1. What is a Window Function?
+Answer: A Window Function performs calculations across related rows without combining them into one row.
+
+2. What is OVER()?
+Answer: OVER() defines the set of rows used by a Window Function.
+
+3. What does PARTITION BY do?
+Answer: PARTITION BY divides rows into groups for separate calculations.
+
+4. What does ORDER BY do inside OVER()?
+Answer: ORDER BY defines the order in which rows are processed.
+
+5. What is ROW_NUMBER()?
+Answer: ROW_NUMBER() assigns a unique sequential number to each row.
+
+6. What is RANK()?
+Answer: RANK() gives the same rank to tied values and leaves gaps after ties.
+
+7. What is DENSE_RANK()?
+Answer: DENSE_RANK() gives the same rank to tied values without leaving gaps.
+
+8. Difference between ROW_NUMBER(), RANK(), and DENSE_RANK()?
+Answer: ROW_NUMBER() gives unique numbers, RANK() allows ties with gaps, and DENSE_RANK() allows ties without gaps.
+
+9. What does LAG() do?
+Answer: LAG() returns a value from a previous row.
+
+10. What does LEAD() do?
+Answer: LEAD() returns a value from a following row.
+
+11. What is FIRST_VALUE()?
+Answer: FIRST_VALUE() returns the first value from the defined window.
+
+12. What is LAST_VALUE()?
+Answer: LAST_VALUE() returns the last value from the defined window.
+
+13. Can aggregate functions be used as Window Functions?
+Answer: Yes, functions like SUM(), AVG(), MIN(), and MAX() can be used with OVER().
+
+14. What is a Running Total?
+Answer: A Running Total is a cumulative sum calculated row by row.
+
+15. How do you calculate department-wise average salary?
+Answer: Use AVG(salary) OVER (PARTITION BY department).
+
+16. How do you rank employees within each department?
+Answer: Use RANK() OVER (PARTITION BY department ORDER BY salary DESC).
+
+17. How do you find the top employee in each department?
+Answer: Use ROW_NUMBER() or RANK() with PARTITION BY department and ORDER BY salary DESC.
+
+18. Difference between GROUP BY and PARTITION BY?
+Answer: GROUP BY combines rows into groups, while PARTITION BY keeps individual rows and performs calculations within groups.
+
+19. Can Window Functions be used directly in WHERE?
+Answer: No, use a CTE or subquery to filter Window Function results.
+
+20. What is the main advantage of Window Functions?
+Answer: They allow row-level analysis while keeping the individual rows in the result.
+
+21. How do you calculate a Running Total using SUM()?
+Answer: Use SUM(salary) OVER (ORDER BY employee_id).
+
+22. How do you calculate a department-wise Running Total?
+Answer: Use SUM(salary) OVER (PARTITION BY department ORDER BY employee_id).
+
+23. How do you find the previous employee's salary?
+Answer: Use LAG(salary) OVER (ORDER BY employee_id).
+
+24. How do you find the next employee's salary?
+Answer: Use LEAD(salary) OVER (ORDER BY employee_id).
+
+25. How do you find the second-highest salary using a Window Function?
+Answer: Use DENSE_RANK() with ORDER BY salary DESC and filter for rank 2.
+
+26. How do you find the top 2 employees from each department?
+Answer: Use ROW_NUMBER() OVER (PARTITION BY department ORDER BY salary DESC) and filter row_number <= 2.
+
+27. Can Window Functions be combined with CTEs?
+Answer: Yes, CTEs are commonly used to filter or further process Window Function results.
+
+28. What is the difference between LAG() and LEAD()?
+Answer: LAG() accesses a previous row, while LEAD() accesses a following row.
+
+29. What is the difference between RANK() and DENSE_RANK()?
+Answer: RANK() leaves gaps after ties, while DENSE_RANK() does not.
+
+30. What is the basic syntax of a Window Function?
+Answer:
+FUNCTION() OVER (
+    PARTITION BY column
+    ORDER BY column
+)
