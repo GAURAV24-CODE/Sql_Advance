@@ -12,7 +12,7 @@ SELECT
 FROM employees;
 
 
--- Running total based on employee_id
+-- Running total based on employee_
 SELECT
     employee_id,
     name,
