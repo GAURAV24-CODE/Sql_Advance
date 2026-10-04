@@ -12,7 +12,7 @@ SELECT
 FROM employees;
 
 
--- Department-wise salary ranking
+-- Department-wise salary ranki
 SELECT
     name,
     department,
