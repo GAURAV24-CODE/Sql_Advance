@@ -25,7 +25,7 @@ SELECT
 FROM employees;
 
 
--- Highest-paid employee(s) in each department
+-- Highest-paid employee(s) in each departmen
 WITH ranked_employees AS (
     SELECT
         name,
