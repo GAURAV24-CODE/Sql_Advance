@@ -80,7 +80,7 @@ Learn how to **analyze individual rows while calculating rankings, totals, avera
 
 # 🗃️ Day 12 Dataset
 
-Day 12 uses an employee dataset containing sample employee records across multiple departments.
+Day 12 uses an employee dataset containing sampl employee records across multiple departments.
 
 ## `employees`
 
