@@ -25,7 +25,7 @@ SELECT
 FROM employees;
 
 
--- Employee count by department
+-- Employee count by departme
 SELECT
     name,
     department,
