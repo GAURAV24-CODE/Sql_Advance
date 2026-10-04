@@ -12,7 +12,7 @@ SELECT
 FROM employees;
 
 
--- Department-wise dense ranking
+-- Department-wise dense ranki
 SELECT
     name,
     department,
