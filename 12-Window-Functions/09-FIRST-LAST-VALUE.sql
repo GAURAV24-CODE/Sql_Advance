@@ -12,7 +12,7 @@ SELECT
 FROM employees;
 
 
--- Highest-paid employee in each department
+-- Highest-paid employee in each departmen
 SELECT
     name,
     department,
