@@ -2,9 +2,7 @@
 -- Day 12 - SQL Window Functions
 -- Dataset.sql
 -- PostgreSQL
--- ============================================================
-
--- Remove existing table if it already exists
+-- ======================================-- Remove existing table if it already exists
 DROP TABLE IF EXISTS employees;
 
 -- Create employees table
