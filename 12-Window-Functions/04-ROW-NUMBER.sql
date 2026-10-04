@@ -12,7 +12,7 @@ SELECT
 FROM employees;
 
 
--- Number employees within each department
+-- Number employees within each departme
 SELECT
     name,
     department,
