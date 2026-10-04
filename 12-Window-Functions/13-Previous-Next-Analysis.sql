@@ -51,7 +51,7 @@ SELECT
 FROM employees;
 
 
--- Previous and next salary together
+-- Previous and next salary togethe
 SELECT
     employee_id,
     name,
