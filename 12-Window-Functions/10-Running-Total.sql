@@ -12,7 +12,7 @@ SELECT
 FROM employees;
 
 
--- Running total by department
+-- Running total b department
 SELECT
     employee_id,
     name,
