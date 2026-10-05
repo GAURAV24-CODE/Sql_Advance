@@ -1,4 +1,4 @@
--- Topic 4: SUBSTRING()
+-- Topic 4: SUBSTRING(
 
 SELECT
     SUBSTRING('Gaurav Kumbhar' FROM 1 FOR 6) AS first_name;
