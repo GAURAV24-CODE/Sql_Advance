@@ -1,4 +1,4 @@
--- Topic 1: UPPER() and LOWER()
+-- Topic 1: UPPER() and LOWER(
 
 SELECT
     customer_name,
