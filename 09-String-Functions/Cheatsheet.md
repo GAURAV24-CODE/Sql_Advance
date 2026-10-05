@@ -1,7 +1,7 @@
 DAY 9 — SQL STRING FUNCTIONS CHEATSHEET
 
 UPPER(text)
-→ Converts text to uppercase.
+→ Converts text to uppercase
 
 LOWER(text)
 → Converts text to lowercase.
