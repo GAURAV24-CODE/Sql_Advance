@@ -7,9 +7,7 @@ UPPER() converts text to uppercase.
 
 2. What does LOWER() do?
 
-LOWER() converts text to lowercase.
-
-
+LOWER() converts text to lowercase
 3. What does LENGTH() return?
 
 It returns the number of characters in a string.
