@@ -1,4 +1,4 @@
--- Topic 8: POSITION() and STRPOS()
+-- Topic 8: POSITION() and STRPOS(
 
 SELECT
     POSITION('a' IN 'Gaurav') AS position_of_a;
