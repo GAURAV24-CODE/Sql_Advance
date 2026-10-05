@@ -1,4 +1,4 @@
--- Topic 5: LEFT() and RIGHT()
+-- Topic 5: LEFT() and RIGHT(
 
 SELECT
     LEFT('Gaurav Kumbhar', 6) AS first_part;
