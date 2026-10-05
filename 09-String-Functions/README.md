@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟣 Day 9 — SQL String Functions
+# 🟣 Day 9 — SQL String Function
 
 ### 🔤 UPPER • LOWER • LENGTH • TRIM • SUBSTRING • LEFT • RIGHT • CONCAT • REPLACE • POSITION • STRPOS • SPLIT_PART • CASE
 
