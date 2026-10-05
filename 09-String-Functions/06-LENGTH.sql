@@ -1,4 +1,4 @@
--- Topic 2: LENGTH()
+-- Topic 2: LENGTH(
 
 SELECT
     customer_name,
