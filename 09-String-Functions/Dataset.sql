@@ -1,5 +1,5 @@
 -- Day 9: SQL String Functions
--- PostgreSQL
+-- PostgreSQ
 
 DROP TABLE IF EXISTS customers;
 
