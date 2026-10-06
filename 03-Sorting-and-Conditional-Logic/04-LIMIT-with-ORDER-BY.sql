@@ -1,8 +1,7 @@
 -- DAY 3 — SORTING AND CONDITIONAL LOGIC
 -- File: 04-LIMIT-with-ORDER-BY.sql
 -- Topic: LIMIT with ORDER BY
--- Database: PostgreSQL
-
+-- Database: PostgreSQ
 -- 1. First 5 orders
 SELECT *
 FROM sales_orders
