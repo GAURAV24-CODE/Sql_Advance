@@ -4,7 +4,7 @@
 -- Database: PostgreSQL
 
 
--- 1. Salary Between 50000 and 70000
+-- 1. Salary Between 50000 and 700
 SELECT
     employee_name,
     salary
