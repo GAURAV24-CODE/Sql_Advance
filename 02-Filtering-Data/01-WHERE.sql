@@ -1,7 +1,7 @@
 -- DAY 2 — FILTERING DATA
 -- File: 01-WHERE.sql
 -- Topic: WHERE
--- Database: PostgreSQL
+-- Database: PostgreS
 
 
 -- 1. Basic WHERE
