@@ -6,7 +6,7 @@ SQL — DAY 2: FILTERING DATA
    WHERE salary > 60000;
 
 2. COMPARISON OPERATORS
-   =   Equal
+   =   Equa
 
 > Greater than
 > <   Less than
