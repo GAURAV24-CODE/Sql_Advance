@@ -4,7 +4,7 @@
 
 
 
--- 1. Sort employees by salary
+-- 1. Sort employees by sala
 SELECT
     employee_name,
     salary
