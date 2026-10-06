@@ -1,8 +1,7 @@
 -- DAY 2 — FILTERING DATA
 -- File: 03-AND-OR-NOT.sql
 -- Topic: AND / OR / NOT
--- Database: PostgreSQL
-
+-- Database: Postgre
 
 -- 1. AND — Two Conditions
 SELECT
