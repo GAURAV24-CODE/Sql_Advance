@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🔵 Day 2 — Filtering Data
+# 🔵 Day 2 — Filtering Dataaa
 
 ### 🔎 WHERE • Comparison Operators • AND/OR/NOT • IN/NOT IN • BETWEEN • LIKE/ILIKE • NULL Filtering
 
