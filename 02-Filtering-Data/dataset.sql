@@ -4,7 +4,7 @@
 -- Purpose: Practice WHERE and Filtering
 
 
--- Drop table if it already exists
+-- Drop table if it already exist
 DROP TABLE IF EXISTS employees;
 
 
