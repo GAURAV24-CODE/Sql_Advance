@@ -8,7 +8,7 @@ INTERVIEW QUESTIONS & ANSWERS
    SELECT chooses columns, while WHERE filters rows.
 
 3. What are comparison operators in SQL?
-   =, >, <, >=, <=, <>, and != are commonly used comparison operators.
+   =, >, <, >=, <=, <>, and != are commonly used comparison operato
 
 4. What is the difference between = and !=?
    = checks equality, while != checks whether values are different.
