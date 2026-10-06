@@ -1,6 +1,6 @@
 -- DAY 3 — SORTING AND CONDITIONAL LOGIC
 -- File: 02-ASC-DESC.sql
--- Topic: ASC / DESC
+-- Topic: ASC / DES
 -- Database: PostgreSQL
 
 
