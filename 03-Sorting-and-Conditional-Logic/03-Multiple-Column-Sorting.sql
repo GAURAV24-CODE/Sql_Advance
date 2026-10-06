@@ -1,8 +1,7 @@
 -- DAY 3 — SORTING AND CONDITIONAL LOGIC
 -- File: 03-Multiple-Column-Sorting.sql
 -- Topic: Multiple Column Sorting
--- Database: PostgreSQL
-
+-- Database: PostgreS
 
 -- 1. Sort by city, then sales
 SELECT
