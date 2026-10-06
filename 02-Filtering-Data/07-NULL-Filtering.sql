@@ -5,7 +5,7 @@
 -- Database: PostgreSQL
 
 
--- Add a NULL value for practice
+-- Add a NULL value for practi
 UPDATE employees
 SET performance_rating = NULL
 WHERE employee_name = 'Gaurav';
