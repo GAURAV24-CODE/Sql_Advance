@@ -3,7 +3,6 @@
 -- Topic: IN / NOT IN
 -- Database: PostgreSQL
 
-
 -- 1. IN with Departments
 SELECT
     employee_name,
