@@ -1,7 +1,7 @@
 -- DAY 2 — FILTERING DATA
 -- File: 02-Comparison-Operators.sql
 -- Topic: Comparison Operators
--- Database: PostgreSQL
+-- Database: Postgre
 
 
 -- 1. Equal To (=)
