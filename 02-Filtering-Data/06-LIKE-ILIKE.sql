@@ -4,7 +4,7 @@
 -- Database: PostgreSQL
 
 
--- 1. Names Starting With G
+-- 1. Names Starting With 
 SELECT
     employee_name
 FROM employees
