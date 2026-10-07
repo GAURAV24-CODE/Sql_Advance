@@ -2,7 +2,7 @@
 
 # 🟢 Day 4 — Aggregation & SQL Functions
 
-### 🔢 COUNT • SUM • AVG • MIN/MAX • COUNT DISTINCT • Conditional Aggregation • COALESCE • NULLIF
+### 🔢 COUNT • SUM • AVG • MIN/MAX • COUNT DISTINC • Conditional Aggregation • COALESCE • NULLIF
 
 <p>
   <img src="https://img.shields.io/badge/Day-04-16A34A?style=for-the-badge" alt="Day 4">
