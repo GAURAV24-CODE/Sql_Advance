@@ -1,5 +1,5 @@
 -- SQL Day 4: COUNT()
--- COUNT() is used to count rows or non-NULL values.
+-- COUNT() is used to count rows or non-NULL valu
 
 -- 1. Count all transactions
 SELECT
