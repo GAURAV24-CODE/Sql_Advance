@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS transactions;
 
 CREATE TABLE transactions (
     transaction_id INT PRIMARY KEY,
-    customer_name VARCHAR(100),
+    customer_name VARCHAR(50),
     city VARCHAR(50),
     product VARCHAR(100),
     category VARCHAR(50),
