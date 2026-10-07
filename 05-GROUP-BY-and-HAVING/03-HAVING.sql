@@ -7,7 +7,7 @@ FROM sales
 GROUP BY category
 HAVING SUM(amount) > 100000;
 
--- Example 2: Cities with more than 3 transactions
+-- Example 2: Cities with more than 3 transactio
 SELECT
     city,
     COUNT(*) AS total_transactions
