@@ -5,7 +5,7 @@
 -- NULLIF(value1, value2)
 --
 -- If value1 = value2 -> returns NULL
--- If value1 <> value2 -> returns value1
+-- If value1 <> value2 -> returns valu
 
 
 -- 1. Basic NULLIF example
