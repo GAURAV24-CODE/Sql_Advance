@@ -13,7 +13,7 @@ FROM sales
 WHERE sales_status = 'Completed'
 GROUP BY category;
 
--- Example 3: Filter groups using HAVING
+-- Example 3: Filter groups using HAVI
 SELECT
     category,
     SUM(amount) AS total_sales
