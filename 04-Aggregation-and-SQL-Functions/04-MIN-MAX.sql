@@ -3,7 +3,7 @@
 -- MAX() returns the largest value.
 
 
--- 1. Find the minimum transaction amount
+-- 1. Find the minimum transaction amou
 SELECT
     MIN(amount) AS minimum_amount
 FROM transactions;
