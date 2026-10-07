@@ -9,7 +9,7 @@ COUNT(*)
 COUNT(column)
 
 COUNT(*)       -> Counts all rows
-COUNT(column)  -> Counts only non-NULL values
+COUNT(column)  -> Counts only non-NULL value
 
 Example:
 SELECT COUNT(*) FROM transactions;
