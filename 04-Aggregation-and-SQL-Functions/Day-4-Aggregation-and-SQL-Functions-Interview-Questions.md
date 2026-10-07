@@ -1,5 +1,5 @@
 # SQL Interview Questions — Day 4
-# Aggregation and SQL Functions
+# Aggregation and SQL Function
 # Database: PostgreSQL
 
 ## Topics Covered
