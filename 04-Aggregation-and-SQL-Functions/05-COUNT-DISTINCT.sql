@@ -1,5 +1,5 @@
 -- SQL Day 4: COUNT(DISTINCT)
--- COUNT(DISTINCT column) counts unique non-NULL values.
+-- COUNT(DISTINCT column) counts unique non-NULL value
 
 
 -- 1. Count unique customers
