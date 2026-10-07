@@ -2,7 +2,7 @@
 -- Conditional aggregation combines aggregate functions
 -- such as COUNT() or SUM() with CASE WHEN.
 --
--- It is used to calculate multiple business metrics
+-- It is used to calculate multiple business metri
 -- in a single query.
 
 
