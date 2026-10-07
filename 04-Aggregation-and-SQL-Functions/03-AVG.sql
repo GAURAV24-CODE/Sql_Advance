@@ -1,7 +1,5 @@
 -- SQL Day 4: AVG()
--- AVG() calculates the average value of a numeric column.
-
-
+-- AVG() calculates the average value of a numeric colum
 -- 1. Calculate the average transaction amount
 SELECT
     AVG(amount) AS average_transaction_amount
