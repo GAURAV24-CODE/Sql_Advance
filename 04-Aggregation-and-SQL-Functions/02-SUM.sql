@@ -1,6 +1,5 @@
 -- SQL Day 4: SUM()
--- SUM() calculates the total of a numeric column.
-
+-- SUM() calculates the total of a numeric column
 -- 1. Calculate total transaction amount
 SELECT
     SUM(amount) AS total_amount
