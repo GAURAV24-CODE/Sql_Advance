@@ -4,7 +4,7 @@
 -- Syntax:
 -- COALESCE(value1, value2, value3, ...)
 --
--- If value1 is NULL, SQL checks value2, then value3, and so on.
+-- If value1 is NULL, SQL checks value2, then value3, and so o
 
 
 -- 1. Basic COALESCE example
