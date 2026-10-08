@@ -12,7 +12,7 @@ LEFT JOIN employees AS m
     ON e.manager_id = m.employee_id;
 
 
--- Example 2: Show employee and manager departments
+-- Example 2: Show employee and manager departmen
 SELECT
     e.employee_name AS employee,
     e.department AS employee_department,
