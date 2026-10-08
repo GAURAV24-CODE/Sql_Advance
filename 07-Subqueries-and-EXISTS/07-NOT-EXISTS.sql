@@ -3,7 +3,7 @@
 -- NOT EXISTS checks whether no matching row exists.
 
 
--- Example 1: Departments without employees
+-- Example 1: Departments without employe
 
 SELECT
     d.department_id,
