@@ -13,7 +13,7 @@ FULL OUTER JOIN orders AS o
     ON c.customer_id = o.customer_id;
 
 
--- Example 2: Customer and order details
+-- Example 2: Customer and order detail
 SELECT
     c.customer_name,
     c.city,
