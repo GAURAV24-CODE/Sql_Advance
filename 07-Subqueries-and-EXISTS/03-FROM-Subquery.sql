@@ -1,8 +1,6 @@
 -- Day 7: FROM Subquery
 -- Dataset: employees and departments
--- FROM subquery = Derived Table
-
-
+-- FROM subquery = Derived Tabl
 -- Example 1: Average salary by department
 
 SELECT *
