@@ -9,7 +9,7 @@ FROM customers AS c
 LEFT JOIN orders AS o
     ON c.customer_id = o.customer_id;
 
--- Example 2: Show all customers and their order status
+-- Example 2: Show all customers and their order stat
 SELECT
     c.customer_name,
     o.order_id,
