@@ -6,7 +6,7 @@ FROM customers AS c
 INNER JOIN orders AS o
     ON c.customer_id = o.customer_id;
 
--- Example 2: Customer name with order amount
+-- Example 2: Customer name with order amoun
 SELECT
     customer_name,
     order_id,
