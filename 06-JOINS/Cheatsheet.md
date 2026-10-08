@@ -12,7 +12,7 @@ INNER JOIN table2 AS b
     ON a.id = b.id;
 
 Use:
-→ Find records that exist in both tables.
+→ Find records that exist in both table
 
 
 2. LEFT JOIN
