@@ -11,7 +11,7 @@ FROM customers AS c
 CROSS JOIN products AS p;
 
 
--- Example 2: Customer and product prices
+-- Example 2: Customer and product pric
 SELECT
     c.customer_name,
     p.product_name,
