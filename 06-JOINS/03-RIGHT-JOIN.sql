@@ -13,7 +13,7 @@ RIGHT JOIN orders AS o
     ON c.customer_id = o.customer_id;
 
 
--- Example 2: Show orders with customer city
+-- Example 2: Show orders with customer ci
 SELECT
     o.order_id,
     c.customer_name,
