@@ -3,7 +3,7 @@
 -- EXISTS checks whether at least one matching row exists.
 
 
--- Example 1: Departments that have employees
+-- Example 1: Departments that have employe
 
 SELECT
     d.department_id,
