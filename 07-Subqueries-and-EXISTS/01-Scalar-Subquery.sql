@@ -4,7 +4,7 @@
 -- Scalar subquery returns exactly one value.
 
 
--- Example 1: Employees earning above average salary
+-- Example 1: Employees earning above average sala
 
 SELECT employee_name, salary
 FROM employees
