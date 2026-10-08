@@ -2,7 +2,7 @@
 
 # 🔵 Day 6 — SQL JOINs
 
-### 🔗 INNER JOIN • LEFT JOIN • RIGHT JOIN • FULL OUTER JOIN • SELF JOIN • CROSS JOIN • Multiple JOINs • JOIN with GROUP BY • JOIN with HAVING
+### 🔗 INNER JOIN • LEFT JOIN • RIGHT JOIN • FULL OUTER JOIN • SELF JOIN • CROSS JOIN • Multiple JOINs • JOIN awith GROUP BY • JOIN with HAVING
 
 <p>
   <img src="https://img.shields.io/badge/Day-06-2563EB?style=for-the-badge" alt="Day 6">
