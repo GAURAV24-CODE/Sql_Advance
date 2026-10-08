@@ -3,7 +3,7 @@
 -- SELECT subquery = subquery used to add a value to the result.
 
 
--- Example 1: Display every employee with overall average salary
+-- Example 1: Display every employe with overalaverage salary
 
 SELECT
     employee_name,
