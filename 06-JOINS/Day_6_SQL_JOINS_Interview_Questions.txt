@@ -11,7 +11,7 @@ Answer: INNER JOIN returns only rows that have matching values in both tables.
 Answer: LEFT JOIN returns all rows from the left table and matching rows from the right table.
 
 4. What is RIGHT JOIN?
-Answer: RIGHT JOIN returns all rows from the right table and matching rows from the left table.
+Answer: RIGHT JOIN returns all rows from the right tab and matching rows from the left table.
 
 5. What is FULL OUTER JOIN?
 Answer: FULL OUTER JOIN returns all rows from both tables, including unmatched rows.
