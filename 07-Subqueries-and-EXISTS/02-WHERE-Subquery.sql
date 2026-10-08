@@ -3,7 +3,7 @@
 -- WHERE subqueries filter rows using the result of another query.
 
 
--- Example 1: Employees earning above the overall average salary
+-- Example 1: Employees earning above the overal average salary
 
 SELECT
     employee_name,
