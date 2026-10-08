@@ -5,7 +5,7 @@
 
 
 -- Example 1: Employees earning more than
--- the average salary of their own department
+-- the average salary of their own departme
 
 SELECT
     e.employee_name,
