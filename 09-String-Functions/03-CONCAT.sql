@@ -1,4 +1,4 @@
--- Topic 6: CONCAT() and CONCAT_WS(
+-- Topic 6: CONCAT() and CONCAT_WS()
 
 SELECT
     CONCAT('Gaurav', ' ', 'Kumbhar') AS full_name;
