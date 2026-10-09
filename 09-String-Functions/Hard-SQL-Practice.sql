@@ -1,5 +1,5 @@
 -- DAY 9: STRING FUNCTIONS | HARD SQL PRACTICE
--- PostgreSQL | Dataset + 6 Hard Questions + Answer
+-- PostgreSQL | Dataset + 6 Hard Questions + Answerss
 
 DROP TABLE IF EXISTS hard_customer_data;
 CREATE TABLE hard_customer_data (
