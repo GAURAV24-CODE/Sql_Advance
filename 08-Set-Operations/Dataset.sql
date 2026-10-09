@@ -11,7 +11,7 @@ DROP TABLE IF EXISTS customers_2026;
 
 -- =========================================
 -- CUSTOMERS 2025
--- =========================================
+
 
 CREATE TABLE customers_2025 (
     customer_id INT PRIMARY KEY,
