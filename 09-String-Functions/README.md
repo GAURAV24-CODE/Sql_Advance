@@ -2,7 +2,7 @@
 
 # 🟣 Day 9 — SQL String Function
 
-### 🔤 UPPER • LOWER • LENGTH • TRIM • SUBSTRING • LEFT • RIGHT • CONCAT • REPLACE • POSITION • STRPOS • SPLIT_PART • CASE
+### 🔤 UPPER • LOWER • LENGTH • TRIM • SUBSTRING • LEFT • RIGHT • CONCAT • REPLACE • POSITION • STRPOS • SPLIT_PART • CASEs
 
 <p>
   <img src="https://img.shields.io/badge/Day-09-8E44AD?style=for-the-badge" alt="Day 9">
