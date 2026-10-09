@@ -1,4 +1,4 @@
--- Topic 9: SPLIT_PART(
+-- Topic 9: SPLIT_PART(--)
 
 SELECT
     SPLIT_PART('gaurav@gmail.com', '@', 1) AS username;
