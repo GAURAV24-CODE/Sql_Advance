@@ -2,7 +2,7 @@ DAY 9 — SQL STRING FUNCTIONS INTERVIEW QUESTIONS
 
 1. What does UPPER() do?
 
-UPPER() converts text to uppercase.
+UPPER() converts text to uppercase.lte
 
 
 2. What does LOWER() do?
