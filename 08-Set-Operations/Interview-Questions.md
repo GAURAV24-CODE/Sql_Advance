@@ -2,7 +2,7 @@ DAY 8 — SQL SET OPERATIONS
 INTERVIEW QUESTIONS & ANSWERS
 
 1. What is a set operation in SQL?
-Set operations combine results of two or more SELECT queries.
+Set operations combine results of two or more SELECT queri
 
 2. What is UNION?
 UNION combines result sets and removes duplicate rows.
