@@ -1,4 +1,4 @@
--- Topic 7: REPLACE(
+-- Topic 7: REPLACE(0----)
 
 SELECT
     REPLACE('Gaurav-Kumbhar', '-', ' ') AS updated_name;
