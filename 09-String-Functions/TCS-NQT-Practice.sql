@@ -1,5 +1,5 @@
 -- DAY 9: STRING FUNCTIONS | TCS NQT PRACTICE
--- PostgreSQL | Dataset + 7 Questions + Answe
+-- PostgreSQL | Dataset + 7 Questions + Answ
 
 DROP TABLE IF EXISTS tcs_string_data;
 CREATE TABLE tcs_string_data (
