@@ -1,4 +1,4 @@
--- Topic 3: TRIM(), LTRIM(), RTRIM()
+-- Topic 3: TRIM(), LTRIM(), RTRIM()s
 
 SELECT TRIM('   Gaurav Kumbhar   ') AS trimmed_text;
 
