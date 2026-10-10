@@ -15,7 +15,7 @@ It returns the number of characters in a string.
 
 4. What does LENGTH(NULL) return?
 
-NULL.
+NULL
 
 
 5. What is TRIM() used for?
