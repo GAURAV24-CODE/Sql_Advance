@@ -1,4 +1,4 @@
--- DAY 9: STRING FUNCTIONS | HARD SQL PRACTICE
+-- DAY 9: STRING FUNCTIONS | HARD SQL PRACTI
 -- PostgreSQL | Dataset + 6 Hard Questions + Answerss
 
 DROP TABLE IF EXISTS hard_customer_data;
