@@ -8,7 +8,7 @@ SELECT
 FROM sales
 GROUP BY city, category;
 
--- Example 2: Transactions by city and catego
+-- Example 2: Transactions by city and 
 SELECT
     city,
     category,
