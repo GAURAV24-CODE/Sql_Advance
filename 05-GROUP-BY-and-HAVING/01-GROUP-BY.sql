@@ -7,7 +7,7 @@ SELECT
 FROM sales
 GROUP BY category;
 
--- 2. Number of sales transactions by catego
+-- 2. Number of sales 
 SELECT
     category,
     COUNT(*) AS total_transactions
