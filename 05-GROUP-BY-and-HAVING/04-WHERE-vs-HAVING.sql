@@ -5,7 +5,7 @@ SELECT *
 FROM sales
 WHERE sales_status = 'Completed';
 
--- Example 2: Filter rows before grouping
+-- Example 2: Filter rows before 
 SELECT
     category,
     SUM(amount) AS total_sales
