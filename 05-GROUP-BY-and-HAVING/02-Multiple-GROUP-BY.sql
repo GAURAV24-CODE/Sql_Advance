@@ -1,4 +1,4 @@
--- Multiple GROUP BY
+-- Multiple GROUP B
 
 -- Example 1: Total sales by city and category
 SELECT
