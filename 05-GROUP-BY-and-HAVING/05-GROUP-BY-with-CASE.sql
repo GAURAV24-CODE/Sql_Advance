@@ -1,6 +1,6 @@
 -- GROUP BY with CASE
 
--- Example 1: Count sales by amount categor
+-- Example 1: Count sales by amount categ
 SELECT
     CASE
         WHEN amount >= 50000 THEN 'High Sale'
