@@ -7,7 +7,7 @@
 ### Common Uses
 
 * Create databases and tables
-* Insert data
+* Insert dat
 * Retrieve data
 * Update data
 * Delete data
