@@ -2,7 +2,7 @@
 
 # 🟠 Day 5 — GROUP BY & HAVING
 
-### 📊 GROUP BY • Multiple GROUP BY• HAVING • WHERE vs HAVING • GROUP BY with CASE
+### 📊 GROUP BY • Multiple GROUP BY• HAVING • WHERE vs HAVING • GROUP BY wita CASE
 
 <p>
   <img src="https://img.shields.io/badge/Day-05-F97316?style=for-the-badge" alt="Day 5">
