@@ -1,5 +1,5 @@
 -- HAVING
--- Example 1: Categories with total sales above 100000
+-- Example 1: Categories with total sales above 10000
 SELECT
     category,
     SUM(amount) AS total_sales
