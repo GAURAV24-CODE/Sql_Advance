@@ -3,7 +3,7 @@
 ## 1. What is SQL?
 
 **Answer:**
-SQL (Structured Query Language) is used to communicate with relational databases. It allows us to create, retrieve, update, delete, and analyze 
+SQL (Structured Query Language)  used to communicate with relational databases. It allows us to create, retrieve, update, delete, and analyze 
 
 ---
 
