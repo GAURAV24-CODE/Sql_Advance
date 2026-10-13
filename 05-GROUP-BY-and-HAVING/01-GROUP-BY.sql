@@ -1,4 +1,4 @@
--- Day 5 - Topic 1: GROUP BY
+-- Day 5 Topic 1: GROUP BY
 
 -- 1. Total sales amount by category
 SELECT
