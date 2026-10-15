@@ -11,7 +11,6 @@ This script drops the existing employees table if it exists.
 Run it only if you are comfortable replacing that table and its data.
 */
 
--- =====================================================
 -- 1. CREATE EMPLOYEES TABLE
 -- =====================================================
 
