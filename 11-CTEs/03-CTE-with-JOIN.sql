@@ -3,7 +3,7 @@
 -- Section 11: CTEs
 -- File: 03-CTE-with-JOIN.sql
 -- Database: PostgreSQL
--- ============================================
+
 
 -- Example 1: Join employees with department summary
 WITH department_summary AS (
