@@ -3,7 +3,7 @@
 -- Section 11: CTEs
 -- File: 02-Multiple-CTEs.sql
 -- Database: PostgreSQL
--- ============================================
+
 
 -- Example 1: Calculate average salary by department
 
