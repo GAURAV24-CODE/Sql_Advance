@@ -8,7 +8,7 @@ A CTE (Common Table Expression) is a temporary named result set defined using th
 A CTE uses WITH cte_name AS (SELECT ...) followed by the main SQL query.
 
 3. Why do we use CTEs?
-CTEs improve query readability, simplify complex queries, and make SQL easier to maintain.
+CTEs improve query readability, simplify complex queries, and make SQL easier to maintai
 
 4. What is the WITH clause?
 The WITH clause defines one or more CTEs that can be used in the main query.
