@@ -2,7 +2,7 @@
 
 # 🟣 Day 11 — SQL Common Table Expressions (CTEs)
 
-### 🔗 Basic CTE • Multiple CTEs • CTE with JOIN • CTE with Aggregation • Recursive CTE • CTE vs Subquery
+### 🔗 Basic CTE • Multiple CTEs • CTE with JOIN • CTE with Aggregation • Recursive CTE • CTE vs Subqueryy
 
 <p>
   <img src="https://img.shields.io/badge/Day-11-7C3AED?style=for-the-badge" alt="Day 11">
