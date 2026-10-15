@@ -1,5 +1,5 @@
 /*
-=========================================================
+
 File: 01-Basic-CTE.sql
 Section: 11 - CTEs
 Database: PostgreSQL
