@@ -1,7 +1,7 @@
 -- Day 1: LIMIT
 -- Restrict the number of rows returned
 
--- 1. Display only the first 5 employees
+-- 1. Display only the first 5 employe
 SELECT *
 FROM employees
 LIMIT 5;
