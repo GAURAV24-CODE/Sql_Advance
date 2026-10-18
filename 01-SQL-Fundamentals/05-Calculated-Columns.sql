@@ -1,5 +1,5 @@
 -- Day 1: Calculated Columns
--- Perform calculations directly inside SELECT
+-- Perform calculations directly insiss
 
 -- 1. Calculate annual salary
 SELECT
