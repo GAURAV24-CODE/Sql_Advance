@@ -1,5 +1,5 @@
 -- Day 1: DISTINCT
--- Remove duplicate values from query results
+-- Remove duplicate values from query re
 
 -- 1. Display all departments
 SELECT department
