@@ -1,7 +1,7 @@
 -- Day 1: Column Aliases
 -- Rename columns in the query result using AS
 
--- 1. Rename employee_name as name
+-- 1. Rename employee_name as n
 SELECT employee_name AS name
 FROM employees;
 
