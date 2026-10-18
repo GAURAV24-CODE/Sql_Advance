@@ -6,7 +6,7 @@ SELECT *
 FROM employees;
 
 
--- 2. Find employees where department is NULL
+-- 2. Find employees where department i
 SELECT *
 FROM employees
 WHERE department IS NULL;
