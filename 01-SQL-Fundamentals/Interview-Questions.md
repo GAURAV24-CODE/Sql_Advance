@@ -3,7 +3,7 @@
 ==================================================
 
 1. What is SQL?
-SQL is used to store, retrieve, manipulate, and manage data in databases.
+SQL is used to store, retrieve, manipulate, and manage data in databas
 
 2. What is SELECT?
 SELECT is used to retrieve data from a database table.
