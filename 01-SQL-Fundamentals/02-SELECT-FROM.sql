@@ -1,8 +1,6 @@
 -- Topic: SELECT + FROM
 -- Database: PostgreSQL
--- ============================================================
--- 1. Select all columns
--- ============================================================
+-
 
 SELECT *
 FROM employees;
