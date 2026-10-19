@@ -1,6 +1,5 @@
 -- Day 1: Column Aliases
--- Rename columns in the query result using AS
-
+-- Rename columns in the query result using ASjm
 -- 1. Rename employee_name as n
 SELECT employee_name AS name
 FROM employees;
