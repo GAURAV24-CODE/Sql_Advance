@@ -1,7 +1,7 @@
 -- Day 1: DISTINCT
 -- Remove duplicate values from query re
 
--- 1. Display all departments
+-- 1. Display all departments]]]]
 SELECT department
 FROM employees;
 
