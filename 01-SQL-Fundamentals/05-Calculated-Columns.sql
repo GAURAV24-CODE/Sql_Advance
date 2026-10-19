@@ -1,5 +1,5 @@
 -- Day 1: Calculated Columns
--- Perform calculations directly insiss
+-- Perform calculations directly insissdn
 
 -- 1. Calculate annual salary
 SELECT
