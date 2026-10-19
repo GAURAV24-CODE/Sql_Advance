@@ -1,5 +1,5 @@
 -- SQL Day 4: COUNT()
--- COUNT() is used to count rows or non-NULL git
+-- COUNT() is used to count rows or non-NULL git command
 
 -- 1. Count all transactions
 SELECT
