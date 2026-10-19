@@ -1,6 +1,6 @@
 ==================================================
           SQL INTERVIEW QUESTIONS — DAY 1
-==================================================
+========================================
 
 1. What is SQL?
 SQL is used to store, retrieve, manipulate, and manage data in databas
