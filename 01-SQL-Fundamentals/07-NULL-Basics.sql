@@ -1,7 +1,7 @@
 -- Day 1: NULL Basics
 -- Understanding missing / unknown values
 
--- 1. Check all employee records
+-- 1. Check all employee recordssss
 SELECT *
 FROM employees;
 
