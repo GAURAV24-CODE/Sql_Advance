@@ -1,4 +1,4 @@
--- Topic: SELECT + FROM
+-- Topic: SELECT + 
 -- Database: PostgreSQL
 -
 
