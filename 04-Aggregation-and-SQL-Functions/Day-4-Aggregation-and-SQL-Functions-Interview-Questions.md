@@ -8,7 +8,7 @@
 3. AVG()
 4. MIN()
 5. MAX()
-6. COUNT(DISTINCT)
+6. COUNT(DISTINCT
 7. Conditional Aggregation
 8. COALESCE()
 9. NULLIF()
