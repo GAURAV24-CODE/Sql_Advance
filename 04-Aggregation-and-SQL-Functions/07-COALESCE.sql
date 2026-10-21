@@ -12,7 +12,7 @@ SELECT
     COALESCE(NULL, 100) AS result;
 
 
--- 2. Return a default value when amount is NULL
+-- 2. Return a default value when amount is NUL
 SELECT
     transaction_id,
     customer_name,
