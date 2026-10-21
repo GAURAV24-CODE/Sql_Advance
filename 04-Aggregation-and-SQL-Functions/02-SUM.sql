@@ -12,7 +12,7 @@ SELECT
 FROM transactions;
 
 
--- 3. Calculate total amount from completed transactions
+-- 3. Calculate total amount from completed transactio
 SELECT
     SUM(amount) AS completed_revenue
 FROM transactions
