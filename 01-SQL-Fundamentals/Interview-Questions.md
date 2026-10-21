@@ -6,7 +6,7 @@
 SQL is used to store, retrieve, manipulate, and manage data in databas
 
 2. What is SELECT?
-SELECT is used to retrieve data from a database table.
+SELECT is used to retrieve data from a database tabl
 
 3. What is FROM?
 FROM specifies the table from which data should be retrieved.
