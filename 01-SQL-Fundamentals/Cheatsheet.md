@@ -6,7 +6,7 @@ SELECT *
 FROM employees;
 
 Select Column:
-SELECT employee_name
+SELECT employee_nam
 FROM employees;
 
 Select Multiple Columns:
