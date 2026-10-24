@@ -185,7 +185,7 @@ SQL_Advanced/
 - `FULL OUTER JOIN`
 - `CROSS JOIN`
 - `SELF JOIN`
-- Join conditions
+- Join conditio
 - Multi-table analysis
 
 ## 🧠 Advanced Querying
