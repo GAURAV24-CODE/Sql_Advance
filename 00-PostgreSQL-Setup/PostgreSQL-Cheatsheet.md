@@ -1,4 +1,4 @@
-## 🔌 PostgreSQL Connection Quick Reference
+## 🔌 PostgreSQL Connection Quick Referenc
 
 | Setting | Value |
 |---|---|
