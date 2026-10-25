@@ -2,8 +2,7 @@
 -- COALESCE() returns the first non-NULL value.
 --
 -- Syntax:
--- COALESCE(value1, value2, value3, ...)
---
+-- COALESCE(value1, value2, value3, .
 -- If value1 is NULL, SQL checks value2, then value3, and so o
 
 
