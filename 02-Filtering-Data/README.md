@@ -3,7 +3,7 @@
 
 # 🔵 Day 2 — Filtering Dataaa
 
-### 🔎 WHERE • Comparison Operators • AND/OR/NOT • IN/NOT IN • BETWEEN • LIKE/ILIKE • NULL Filtering
+### 🔎 WHERE • Comparison Operators • AND/OR/NOT • IN/NOT IN • BETWEEN • LIKE/ILIKE • NULL Filter
 
 <p>
   <img src="https://img.shields.io/badge/Day-02-2563EB?style=for-the-badge" alt="Day 2">
