@@ -1,1 +1,1 @@
-hi everont my nam eis gaurav kumbha i want  to tell u somyhing 
+hi everont my nam eis gaurav kumbha i want  to tell u somy
