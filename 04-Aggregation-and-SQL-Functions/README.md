@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟢 Day 4 — Aggregation & SQL Functio
+# 🟢 Day 4 — Aggregation & SQL Function
 
 ### 🔢 COUNT • SUM • AVG • MIN/MAX • COUNT DISTINC • Conditional Aggregatiohn • COALESCE • NULLIF
 
