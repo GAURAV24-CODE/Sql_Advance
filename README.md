@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 SQL Advanced — Interview Master
+# 🧠 SQL Advanced — Interview Mast
 
 ### 🚀 PostgreSQL • Advanced SQL • Data Analytics • Interview Preparatio
 
