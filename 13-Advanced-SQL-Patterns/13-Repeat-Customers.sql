@@ -134,7 +134,7 @@ ORDER BY customer_id, order_date;
 -- KEY CONCEPTS
 --
 -- GROUP BY:
--- Groups orders by customer.
+-- Groups orders by custo
 --
 -- COUNT(*):
 -- Counts the number of order records.
