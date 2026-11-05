@@ -176,7 +176,7 @@ FROM employees;
 -- PIVOT:
 -- Converts row-based categories into separate columns.
 --
--- FILTER (WHERE condition):
+-- FILTER 
 -- Applies a condition to an aggregate in PostgreSQL.
 --
 -- SUM(...) FILTER (...):
