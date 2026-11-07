@@ -1,6 +1,6 @@
 # SQL Database Basics
 
-## 1. What is SQL?
+## 1. What is SQ
 
 **SQL (Structured Query Language)** is used to communicate with relational databases.
 
