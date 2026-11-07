@@ -1,0 +1,7 @@
+git add -A Day-39-Streamlit-Deployment/Assignment/
+git commit -m "Update Day 39 assignment files"
+git push origin maingit add -A Day-39-Streamlit-Deployment/Assignment/
+git commit -m "Update Day 39 assignment files"
+git push origin maingit add -A Day-39-Streamlit-Deployment/Assignment/
+git commit -m "Update Day 39 assignment files"
+git push origin main
