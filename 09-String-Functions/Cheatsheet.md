@@ -1,6 +1,6 @@
 DAY 9 — SQL STRING FUNCTIONS CHEATSHEET
 
-UPPER(text)
+UPPERgit status
 → Converts text to uppercase 
 
 LOWER(text)
