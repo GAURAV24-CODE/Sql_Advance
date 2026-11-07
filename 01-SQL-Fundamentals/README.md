@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟢 Day 1 — SQL Fundamentals
+# 🟢 Day 1 — SQL Fundamental
 
 ### 🧠 Database Basics • SELECT • DISTINCT • Aliases • Calculated Column • LIMIT • NULL
 
