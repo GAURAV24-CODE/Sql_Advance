@@ -2,7 +2,7 @@
 
 # 🧠 SQL Advanced — Interview Mastteryye
 
-### 🚀 PostgreSQL • Advanced SQL • Data Analytics • Interview Preparatio
+### 🚀 PostgreSQL • Advanced SQL • Data Analytics • Interview Prepar
 
 <p>
   <img src="https://img.shields.io/badge/SQL-Advanced-0F766E?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Advanced">
