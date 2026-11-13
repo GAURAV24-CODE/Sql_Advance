@@ -1,4 +1,4 @@
-CTE INTERVIEW QUESTIONS AND ANSWERS
+CTE INTERVIEW QUESTIONS A
 ==================================
 
 1. What is a CTE in SQL?
