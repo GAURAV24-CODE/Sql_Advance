@@ -1,5 +1,5 @@
 <div align="center">
-# 🟣 Day9 — SQL String Function
+# 🟣 Day9 — SQL String Functionssssss
 
 ### 🔤 UPPER • LOWER • LENGTH • TRIM • SUBSTRING • LEFT • RIGHT • CONCAT • REPLACE • POSITION • STRPOS • SPLIT_PART • CASEs
 
