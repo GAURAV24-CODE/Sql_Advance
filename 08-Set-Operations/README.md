@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟠 Day 8 — SQL Set Operations
+# 🟠 Day 8 — SQL Set Operationssssssssssssssss
 
 ### 🔗 UNION • UNION ALL • INTERSECT • EXCEPT • ORDER BY • WHERE • JOIN • Real-World Patterns
 
