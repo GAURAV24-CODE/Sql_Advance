@@ -1,6 +1,6 @@
  <div align="center">
 
-# 🟣 Day 11 — SQL Common Table Expressions
+# 🟣 Day 11 — SQL Common Table Expressionsssssssssssss
 
 ### 🔗 Basic CTE • Multiple CTEs • CTE with JOIN • CTE with Aggregation • Recursive CTE • CTE vs Subqueryy
 
