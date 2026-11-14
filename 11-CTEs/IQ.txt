@@ -1,5 +1,5 @@
 CTE INTERVIEW QUESTIONS A
-==================================
+=====
 
 1. What is a CTE in SQL?
 A CTE (Common Table Expression) is a temporary named result set defined using the WITH clause.
