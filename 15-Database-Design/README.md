@@ -2,7 +2,7 @@
 ## 5. `15-Database-Design/README.md`
 
 ```markdown
-# Day 15: Database Design
+# Day 15: Database DESIGN
 
 ## 📌 Overview
 Database design is the process of organizing data into tables,
