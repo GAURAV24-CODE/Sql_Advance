@@ -1,4 +1,4 @@
-DAY 9 — SQL STRING FUNCTIONS CHEATS
+DAY 9 — SQL STRING FUNCTIONS 
 
 UPPERgit status
 → Converts text to uppercase 
