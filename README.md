@@ -26,7 +26,7 @@ analytical problem-solving skills, and interview-ready SQL.**
 
 ## 🌟 About This Repository
 
-**SQL Advanced — Interview Mastery** is a structured, PostgreSQL-based SQL learning repository created to progress from SQL fundamentals to advanced analytical SQL and interview problem solving.
+**SQL Advanced — Interview structured, PostgreSQL-based SQL learning repository created to progress from SQL fundamentals to advanced analytical SQL and interview problem solving.
 
 The learning philosophy is simple:
 
