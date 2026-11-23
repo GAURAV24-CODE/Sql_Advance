@@ -2,7 +2,7 @@
 
 # 1 — SQL Fundamental
 
-### 🧠 Database Basics • SELECT • DISTINCT • Aliases • Calculated Column • LIMIT • NULL
+### 🧠 Database Basics • SELECT • DISTINCT • Aliases • Calculated Column • LIMIT 
 
 <p>
   <img src="https://img.shields.io/badge/Day-01-0F766E?style=for-the-badge" alt="Day 1">
